@@ -7,10 +7,9 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
-
-
-
 # Make sure to execute #play below
+
+play(board)
 
 =begin
 Edit `bin/play` to include a call to `#play`, passing it the `board` as an argument.
