@@ -7,4 +7,13 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
+
+
+
 # Make sure to execute #play below
+=begin
+Edit `bin/play` to include a call to `#play`, passing it the `board` as an argument.
+You can add that line to the `bin/play` CLI in advance of actually defining the `#play`
+method in `lib/play.rb`. If you try running your CLI now, you'll get a `NoMethodError` 
+about an undefined method `#play`, which is fine because that's what we're about to define.
+=end
